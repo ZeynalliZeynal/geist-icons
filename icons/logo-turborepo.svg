@@ -1,0 +1,20 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_5_2317)">
+<mask id="mask0_5_2317" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+<path d="M0 0H16V16H0V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_5_2317)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M8.00001 6.82496e-06V2.00001C9.54982 1.99726 11.0406 2.59432 12.16 3.66613C13.2795 4.73793 13.9408 6.20133 14.0054 7.7498C14.07 9.29827 13.533 10.8117 12.5067 11.973C11.4805 13.1344 10.0447 13.8536 8.50001 13.98V15.985C10.5763 15.8577 12.5214 14.9266 13.9228 13.3893C15.3242 11.8519 16.0716 9.8291 16.0065 7.74989C15.9415 5.67067 15.0691 3.69856 13.5744 2.25177C12.0797 0.804973 10.0802 -0.00270863 8.00001 6.82496e-06ZM7.50001 15.985V13.98C6.25687 13.8774 5.07704 13.3882 4.12601 12.581L2.70801 14C4.03921 15.1777 5.72598 15.8764 7.50001 15.985ZM2.00001 13.292C0.708641 11.8319 -0.00288655 9.94923 8.80164e-06 8.00001H2.00001C2.00001 9.47701 2.53401 10.83 3.41801 11.874L2.00001 13.292Z" fill="url(#paint0_linear_5_2317)"/>
+<path d="M11.5 8C11.5 6.067 9.933 4.5 8 4.5C6.067 4.5 4.5 6.067 4.5 8C4.5 9.933 6.067 11.5 8 11.5C9.933 11.5 11.5 9.933 11.5 8Z" stroke="black" stroke-width="2" stroke-linejoin="round"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_5_2317" x1="8.70001" y1="2.00001" x2="1.80001" y2="8.80001" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0096FF"/>
+<stop offset="1" stop-color="#FF1E56"/>
+</linearGradient>
+<clipPath id="clip0_5_2317">
+<rect width="16" height="16" fill="white"/>
+</clipPath>
+</defs>
+</svg>
