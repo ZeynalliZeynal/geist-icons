@@ -1,11 +1,11 @@
-# Vercel Icons
+# Geist Icons
 
 Vercel's Unofficial Geist Icon Components.
 
 ## Installation
 
 ```sh
-pnpm add vercel-icons
-npm install vercel-icons
-yarn add vercel-icons
+pnpm add vercel-geist-icons
+npm install vercel-geist-icons
+yarn add vercel-geist-icons
 ```
