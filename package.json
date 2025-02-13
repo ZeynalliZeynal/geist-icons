@@ -4,7 +4,8 @@
   "scripts": {
     "clean": "rimraf dist && rimraf src",
     "build": "tsup src/index.tsx --format cjs,esm --minify --dts --out-dir dist",
-    "convert": "npx svgr ./icons --out-dir ./src --ext tsx --icon --typescript --replace-attr-values #fff=currentColor"
+    "convert": "npx svgr ./icons --out-dir ./src --ext tsx --icon --typescript --replace-attr-values #fff=currentColor",
+    "push": "git push origin main --follow-tags"
   },
   "type": "module",
   "source": "src/index.ts",
