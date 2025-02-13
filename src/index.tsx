@@ -307,6 +307,7 @@ export { default as MagnifyingGlass } from "./MagnifyingGlass";
 export { default as MenuAltUnread } from "./MenuAltUnread";
 export { default as MenuAlt } from "./MenuAlt";
 export { default as Menu } from "./Menu";
+export { default as MessageTyping } from "./MessageTyping";
 export { default as Message } from "./Message";
 export { default as MicrophoneOff } from "./MicrophoneOff";
 export { default as Microphone } from "./Microphone";
